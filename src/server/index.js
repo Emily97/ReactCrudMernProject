@@ -15,8 +15,8 @@ const dbname = 'lecturer-modules'; // change to match your database name
 server.use(express.static('dist'));
 
 // URL to our DB - will be loaded from an env variable or will use local DB
-// const mongo_uri = process.env.MONGODB_URL || `mongodb://localhost:27017/${dbname}`;
-const mongo_uri = 'mongodb+srv://Emily:test@chefs-recipes-4hyk5.mongodb.net/chefs-recipes?retryWrites=true';
+const mongo_uri = process.env.MONGODB_URL || `mongodb://localhost:27017/${dbname}`;
+// const mongo_uri = 'mongodb+srv://Emily:test@chefs-recipes-4hyk5.mongodb.net/chefs-recipes?retryWrites=true';
 
 let db;
 

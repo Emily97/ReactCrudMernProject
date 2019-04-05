@@ -9,7 +9,7 @@ class Lecturer extends React.Component {
         <div className="card-body">
           <h2>{this.props.name}</h2>
           <figure>
-            <img alt="Profile" src={this.props.image} />
+            <img alt="Profile" className=""src={this.props.image} />
           </figure>
           <p>Cook Style: {this.props.region}</p>
           <p>{this.props.email}</p>
