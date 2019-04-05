@@ -47,3 +47,12 @@
     "lecturer_id" : ObjectId("5c9aae8e8afc146c1f61745c"),
     "__v" : 0
 }
+
+{
+    "_id" : ObjectId("5ca47b66c340b661e40d68ab"),
+    "name" : "Rosemary Potatoes",
+    "time" : 34,
+    "level" : "Easy",
+    "lecturer_id" : ObjectId("5c9aa332a5af7e687bcd9014"),
+    "__v" : 0
+}
