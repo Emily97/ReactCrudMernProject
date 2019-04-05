@@ -1,0 +1,49 @@
+{
+    "_id" : ObjectId("5c9aac1772f44b6b46fed3db"),
+    "name" : "Pasta Carbonara",
+    "time" : 18,
+    "level" : "Easy",
+    "lecturer_id" : ObjectId("5c9aa332a5af7e687bcd9014"),
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5c9aac1772f44b6b46fed3dc"),
+    "name" : "Crepes with Strawberries",
+    "time" : 5,
+    "level" : "Medium",
+    "lecturer_id" : ObjectId("5c9aa332a5af7e687bcd9014"),
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("5ca320a30ae6830d9f6427b7"),
+    "name" : "Pizza",
+    "time" : 30,
+    "level" : "Medium",
+    "lecturer_id" : ObjectId("5c9aae8e8afc146c1f61745c"),
+    "_v" : 0
+}
+{
+    "_id" : ObjectId("5ca35a8ba821a90ef43e3b2e"),
+    "name" : "Ice Cream",
+    "time" : 60,
+    "level" : "Hard",
+    "lecturer_id" : ObjectId("5c9aae8e8afc146c1f61745c"),
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("5ca360f5e04a7056c46752f0"),
+    "name" : "Roast Dinner",
+    "time" : 80,
+    "level" : "Medium",
+    "lecturer_id" : ObjectId("5c9aa332a5af7e687bcd9014"),
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("5ca3759f4577af4a203653df"),
+    "name" : "jellytart",
+    "time" : 80,
+    "level" : "Easy",
+    "lecturer_id" : ObjectId("5c9aae8e8afc146c1f61745c"),
+    "__v" : 0
+}
