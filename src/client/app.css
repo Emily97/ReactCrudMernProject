@@ -21,6 +21,10 @@ p {
   float:left;
 }
 
+figure{
+    max-height: 225px;
+}
+
 .card-body{
   background-color: grey;
 }
