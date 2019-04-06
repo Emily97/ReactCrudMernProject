@@ -12,6 +12,7 @@ const server = express();
 const dbname = 'lecturer-modules'; // change to match your database name
 
 // serve files from the dist directory
+// test
 server.use(express.static('dist'));
 
 // URL to our DB - will be loaded from an env variable or will use local DB
